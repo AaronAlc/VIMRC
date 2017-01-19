@@ -32,3 +32,14 @@ function MyDiff()
   endif
 endfunction
 
+
+set expandtab
+set autoindent
+set smartindent
+set nu
+set shiftwidth=3
+set tabstop=3
+
+set backupdir=C:/PROGRA~2/Vim/vim80/backup
+set directory=C:/PROGRA~2/Vim/vim80/backup/swp
+set undodir=C:/PROGRA~2/Vim/vim80/backup/undo
